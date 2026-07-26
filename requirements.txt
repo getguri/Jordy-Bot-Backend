@@ -1,0 +1,16 @@
+fastapi[all]
+python-dotenv
+langchain 
+langchain-community 
+langchain-core 
+langchain-openai 
+langchainhub
+gpt4all
+chromadb
+pypdf
+sqlalchemy
+python-jose[cryptography]
+passlib
+langgraph
+tavily-python
+aiosqlite

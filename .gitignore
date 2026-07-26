@@ -1,0 +1,28 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore compiled python files
+*.pyc
+
+# Ignore database files
+sql_app/database.db
+
+# Ignore logs
+logs/
+
+# Ignore temporary files
+.temp/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore local configuration files
+.env
+
+# Ignore vectorstore files
+vectorstores/db/
+
+__pycache__/
+
+.DS_Store
